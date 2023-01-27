@@ -1,0 +1,18 @@
+Tytuł: Brak możliwości cofnięcia się do poprzedniej strony przez użytkownika( Kod 400 HTML)
+ID: 1002
+Korki reprodukcji:
+1. Posiadamy aktywne konto oraz swoją przestrzeń na stronie www.Trello.pl
+2. Otwieramy zakładkę "Więcej produktów Atlassian(Lewy górny róg, ikona składająca się z 9 kropek)
+3. Przewijamy listę na sam dół do napisu "Więcej produktów Atlassian"
+4. Naciskamy na przycisk "Więcej produktów Atlassian"
+5. Zostajemy przeniesieni do nowej strony z ofertą
+Aktualny rezultat:
+Użytkownik po przejściu do strony z ofertą Atlassian nie może cofnąć się do Trello(Błąd HTML 400)
+Oczekiwany rezultat:
+Użytkownik może cofnąć się do Trello
+Wersja przeglądarki
+Firefox 108.0.1 (64 bity)
+Środowisko:
+Produkcyjne
+Wersja programu:
+Trello 10.091.15
